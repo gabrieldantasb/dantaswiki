@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e95cfd58c3b6c32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "163aa45fa99f50a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5334ca0858cb137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gastronomy/Healthy Diet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Healthy Diet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ecf6948c2431c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0a8882402aea8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02908b787239c021",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc8858ce1e36c282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da9410f0182eb8e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4132d276ccc27a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d75636d832e85b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed0fbfd8b25ca6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "59c1559513e3ea63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "0373f1ea29c1bed3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b18c323e8f1d451",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ae100053d59b92c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "02908b787239c021",
+  "lastOpenFiles": [
+    "Gastronomy/Beans.md.tmp.15548.9d90fb05fccd",
+    "Gastronomy/Beans.md.tmp.15548.ef759a8d5274",
+    "Gastronomy/Healthy Diet.md.tmp.15548.3471bb79b800",
+    "Gastronomy/Healthy Diet.md.tmp.15548.bfe56d416ac0",
+    "Gastronomy/Beans.md",
+    "Gastronomy/Healthy Diet.md",
+    "Gastronomy/Healthy Diet.md.tmp.41960.ea4910f68a50",
+    "Gastronomy/Healthy Diet.md.tmp.41960.7bd206c518c7",
+    "Gastronomy/Healthy Diet.md.tmp.41960.f742fdbc7aae",
+    "create a link.md",
+    "Gastronomy/Healthy Diet.md.tmp.41960.69ee7d1675b4",
+    "Mulesoft/Mulesoft Development principles.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.md"
+  ]
+}
