@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gastronomy/Healthy Diet.md",
+                "file": "Mulesoft/Mulesoft Development principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Healthy Diet"
+              "title": "Mulesoft Development principles"
             }
           }
         ]
@@ -185,25 +185,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "02908b787239c021",
+  "active": "a5334ca0858cb137",
   "lastOpenFiles": [
+    "Customer/True Manufacturing.md",
+    "Customer/Proponent.md",
+    "Customer/OneDigital.md",
+    "Customer/MLC.md",
+    "Customer/INX.md",
+    "Gastronomy/Beans.md",
+    "Gastronomy/Healthy Diet.md",
+    "Mulesoft/Mulesoft Development principles.md",
+    "create a link.md",
+    "Welcome.md",
+    "README.md",
     "Gastronomy/Beans.md.tmp.15548.9d90fb05fccd",
     "Gastronomy/Beans.md.tmp.15548.ef759a8d5274",
     "Gastronomy/Healthy Diet.md.tmp.15548.3471bb79b800",
     "Gastronomy/Healthy Diet.md.tmp.15548.bfe56d416ac0",
-    "Gastronomy/Beans.md",
-    "Gastronomy/Healthy Diet.md",
     "Gastronomy/Healthy Diet.md.tmp.41960.ea4910f68a50",
     "Gastronomy/Healthy Diet.md.tmp.41960.7bd206c518c7",
     "Gastronomy/Healthy Diet.md.tmp.41960.f742fdbc7aae",
-    "create a link.md",
     "Gastronomy/Healthy Diet.md.tmp.41960.69ee7d1675b4",
-    "Mulesoft/Mulesoft Development principles.md",
-    "Welcome.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
-    "Untitled 2.base",
     "Untitled.md"
   ]
 }
